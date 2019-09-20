@@ -1,0 +1,74 @@
+﻿div {
+    display:block;
+    height: 1900px;
+    width: 50%; 
+    margin:auto;
+    box-shadow: 5px 0px 0px 0px;
+    color:gray;
+}
+table,tr,td {
+    border:2px solid gray;
+    border-collapse: collapse;
+    border-collapse: collapse;
+
+}
+body {
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+
+}
+
+h1 {
+    text-align:center;
+    color:black;
+    font-weight: ;
+}
+white-square {
+    align-content: center;
+    height:100%;
+    width:50%;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 50%;
+}
+li a {
+    display:block;
+    color: white;
+    padding: 16px 130px;
+    text-decoration: none;
+    
+    text-align: center;
+    
+}
+li a:hover {
+    background-color: #555;
+
+}
+li {
+    float: left;
+    border: 1px solid black;
+    border: 1px solid black;
+    font-weight: bold;
+}
+.image1 {
+    width: 75%;
+    height:auto;
+}
+.understruken {
+    text-decoration: underline;
+}
+.image2 {
+    width: 70%;
+    height: auto;
+}
+.center {
+    text-align: center;
+}
+
